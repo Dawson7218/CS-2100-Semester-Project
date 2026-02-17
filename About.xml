@@ -1,0 +1,11 @@
+<ModMetaData>
+    <packageID>Historio.TestMod</packageID>
+    <name>Test Mod</name>
+    <author>Historio</author>
+    <description>
+        This is a test mod, its my first time making one!
+    </description>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+</ModMetaData>
