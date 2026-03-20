@@ -1,0 +1,36 @@
+<Defs>
+
+  <XenotypeDef>
+    <defName>Rimlight_Parshmen</defName>
+    <label>parshmen</label>
+    <description>Parshmen are characterized by their black or white skin mottled with red, and squat form. They are very thick-witted, but excelent workers. This means they are mainly used as slaves for menial tasks and labor, as they are more or less incapable of learning more complex trades. However, they are very docile and never rebel, and hardly ever break down either.\n While they are capable of speaking, they hardly ever do; it seems to be a mentally straining task to them. Though, they do seem to be able to communicate amongst each other almost telepathically.\nDespite being subserviant they are too slow to be used in combat.</description>
+    <descriptionShort>Parshmen are squat with red or white and red mottled skin. Their thick-witted docileness has made them a slave class wherever they appear.</descriptionShort>
+    <iconPath>UI/Icons/Xenotypes/Neanderthal</iconPath>
+    <inheritable>true</inheritable>
+    <combatPowerFactor>0.2</combatPowerFactor>
+    <genes>
+      <li>Body_Fat</li>
+      <li>Body_Hulk</li>
+      <li>Skin_PaleRed</li>
+      <li>Skin_DeepRed</li>
+      <li>Sterile</li>
+      <li>KindInstinct</li>
+      <li>ViolenceDisabled</li>
+      <li>PsychicAbility_Dull</li>
+      <li>AptitudeTerrible_Intellectual</li>
+      <li>AptitudeTerrible_Social</li>
+      <li>AptitudeTerrible_Artistic</li>
+      <li>AptitudeTerrible_Medical</li>
+      <li>AptitudePoor_Cooking</li>
+      <li>AptitudePoor_Crafting</li>
+      <li>Rimlight_Learning_Extremely_Slow</li> <!--Needs custom icon-->
+      <li>Mood_Sanguine</li>
+      <li>Pain_Reduced</li>
+      <li>Aggression_DeadCalm</li>
+      <!--Need custom gene for non-rebellion-->
+    </genes>
+  </XenotypeDef>
+
+  <!--Facial ridges for pashendi? -->
+
+</Defs>
