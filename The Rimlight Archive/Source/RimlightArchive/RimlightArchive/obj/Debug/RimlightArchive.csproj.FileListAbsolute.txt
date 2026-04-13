@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\The Rimlight Archive\Assemblies\RimlightArchive.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\The Rimlight Archive\Source\RimlightArchive\RimlightArchive\obj\Debug\RimlightArchive.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\The Rimlight Archive\Source\RimlightArchive\RimlightArchive\obj\Debug\RimlightArchive.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\The Rimlight Archive\Source\RimlightArchive\RimlightArchive\obj\Debug\RimlightArchive.dll
